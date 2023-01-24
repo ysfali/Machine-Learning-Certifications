@@ -20,3 +20,5 @@
 
 ## LinkedIn Learning
 [Azure Machine Learning Development Part 1](https://github.com/ysfali/Machine-Learning-Certifications/blob/main/Azure%20Machine%20Learning%20Development%20Part%201.pdf)
+
+[Azure Machine Learning Development Part 2](https://github.com/ysfali/Machine-Learning-Certifications/blob/main/Azure%20Machine%20Learning%20Development%20Part%202.pdf)
