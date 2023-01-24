@@ -17,3 +17,6 @@
 [Natural Language Processing with Transformers](https://www.udemy.com/certificate/UC-0198c941-0594-4ce9-9a84-1b9b67cc4c90/)
 
 [Master SQL For Data Science](https://www.udemy.com/certificate/UC-bba79693-07d6-4b3d-b5b5-b977dee26a35/)
+
+## LinkedIn Learning
+[Azure Machine Learning Development Part 1](https://github.com/ysfali/Machine-Learning-Certifications/blob/main/Azure%20Machine%20Learning%20Development%20Part%201.pdf)
